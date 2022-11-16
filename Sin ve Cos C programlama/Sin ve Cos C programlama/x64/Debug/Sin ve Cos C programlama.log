@@ -1,0 +1,6 @@
+﻿  Kaynak.c
+C:\Users\eray\source\repos\Sin ve Cos C programlama\Sin ve Cos C programlama\Kaynak.c(12,13): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\eray\source\repos\Sin ve Cos C programlama\Sin ve Cos C programlama\Kaynak.c(13,12): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\eray\source\repos\Sin ve Cos C programlama\Sin ve Cos C programlama\Kaynak.c(16,13): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\eray\source\repos\Sin ve Cos C programlama\Sin ve Cos C programlama\Kaynak.c(17,12): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Sin ve Cos C programlama.vcxproj -> C:\Users\eray\source\repos\Sin ve Cos C programlama\x64\Debug\Sin ve Cos C programlama.exe
